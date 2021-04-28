@@ -1,0 +1,23 @@
+.floating{
+    float:left;
+}
+.shadowBox {
+    box-shadow: 5px 5px 15px #525252 ;
+}
+.card-height {
+    height: 520px;
+}
+
+.font-styling {
+    font-family: 'Goldman', cursive;
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+
+p{
+    font-family: Teko;
+    font-weight:lighter;
+    letter-spacing: 1px;
+    color:tomato;
+  }
+
